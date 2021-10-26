@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
-    <body>
+    <body background="">
 <h1>Sky Is No Limit</h1>
 <h3><u>By: Kanek, Harshit & Karan</u></h3>
 <br><img src="the-sky-is-no-limit.png" height="500" Width="400"<br>
