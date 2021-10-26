@@ -10,7 +10,7 @@ This code is for DPS Annual Day
     <body>
 <h1>Sky Is No Limit</h1>
 <h3><u>By: Kanek, Harshit & Karan</u></h3>
-<br><img src="Sky Is No Limit.jpg" height="200" Width="400"<br>
+<br><img src="the-sky-is-no-limit.png" height="200" Width="400"<br>
 <hr>
  <href = ">
 As our topic is <b><i><a Hope Probe Misssion'</a></i></b>
