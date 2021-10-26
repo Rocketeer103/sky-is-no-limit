@@ -20,7 +20,7 @@ As our topic is <b><i><a Hope Probe Misssion'</a></i></b>
 <h2>Game Instructions & Link: https://scratch.mit.edu/projects/582706783 </h2>
 <h2>Our Scratch Code For the Game</h2>
 <br><img src="2021-10-26.jpg" height="500" width="400"<br>
-<br><img src="Screenshot 2021-10-26 at 6.13.28 PM.png"><br>
+<br><img src="Screenshot 2021-10-26 at 6.13.28 PM.png" height="500" width="400"><br>
 <br><img src="Code for Lasers.png"><br>
 <br><img src="Code for Game Over.jpg"><br>
 </body>
