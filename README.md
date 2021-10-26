@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
-    <body background="HD-wallpaper-planets-nebula-clouds-stars-light">
+    <body>
 <h1>Sky Is No Limit</h1>
 <h3><u>By: Kanek, Harshit & Karan</u></h3>
 <br><img src="the-sky-is-no-limit.png" height="500" Width="400"<br>
@@ -23,6 +23,6 @@ As our topic is <b><i><a Hope Probe Misssion'</a></i></b>
 <br><img src="Screenshot 2021-10-26 at 6.13.28 PM.png" height="600" width="750"><br>
 <br><img src="Screenshot 2021-10-26 at 6.14.23 PM.png" height="460" width="780"><br>
 <br><img src="Screenshot 2021-10-26 at 6.14.46 PM.png"height="460" width="780"><br>
-</body>
+</body background="HD-wallpaper-planets-nebula-clouds-stars-light">
 </html>
   
