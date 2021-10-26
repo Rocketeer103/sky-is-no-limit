@@ -21,7 +21,7 @@ As our topic is <b><i><a Hope Probe Misssion'</a></i></b>
 <h2>Our Scratch Code For the Game</h2>
 <br><img src="2021-10-26.jpg" height="800" width="750"<br>
 <br><img src="Screenshot 2021-10-26 at 6.13.28 PM.png" height="600" width="750"><br>
-<br><img src="Screenshot 2021-10-26 at 6.14.23 PM.png" height="842" width="360"><br>
+<br><img src="Screenshot 2021-10-26 at 6.14.23 PM.png" height="360" width="842"><br>
 <br><img src="Code for Game Over.jpg"><br>
 </body>
 </html>
