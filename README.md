@@ -1,5 +1,3 @@
-# sky-is-no-limit
-This code is for DPS Annual Day 
 <!DOCTYPE html>
 <html>
     <head>
