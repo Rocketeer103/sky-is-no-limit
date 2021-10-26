@@ -3,7 +3,6 @@
     <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>HTML Code for Annual Day</title>
     </head>
     <body>
 <h1>Sky Is No Limit</h1>
